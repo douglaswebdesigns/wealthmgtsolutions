@@ -14,7 +14,7 @@
 		<div class="site-info">
 			<a class="powered-by" href="<?php echo esc_url( __( 'http://wordpress.org/', 'editor' ) ); ?>"><?php printf( __( 'Proudly powered by %s', 'editor' ), 'WordPress' ); ?></a>
 			<span class="sep"> | </span>
-			<?php printf( __( 'Theme: %1$s by %2$s', 'editor' ), 'editor', '<a href="http://douglaswebdesigns.com/">Douglas Web Designs</a>' ); ?>
+			<?php printf( __( 'Theme: %1$s by %2$s', 'editor' ), 'editor', '<a href="https://douglaswebdesigns.com/">Douglas Web Designs</a>' ); ?>
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
