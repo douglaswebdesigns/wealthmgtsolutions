@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8263554f-179e-4c18-8159-2a252e904771" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/wp-content/themes/editor/footer.php" afterPath="$PROJECT_DIR$/wp-content/themes/editor/footer.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="www.wealthmgtsolutions.dev.iws" />
@@ -31,8 +30,8 @@
       <file leaf-file-name="footer.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/editor/footer.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.2552719">
-              <caret line="16" column="159" selection-start-line="16" selection-start-column="159" selection-end-line="16" selection-end-column="159" />
+            <state vertical-scroll-proportion="0.48501664">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -305,7 +304,13 @@
       <option name="project" value="LOCAL" />
       <updated>1451836762989</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="change footer to full business entity name">
+      <created>1451843295860</created>
+      <option name="number" value="00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1451843295860</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -351,7 +356,8 @@
     <MESSAGE value="Change footer Developer site name again" />
     <MESSAGE value="added front-page.php" />
     <MESSAGE value="another footer change" />
-    <option name="LAST_COMMIT_MESSAGE" value="another footer change" />
+    <MESSAGE value="change footer to full business entity name" />
+    <option name="LAST_COMMIT_MESSAGE" value="change footer to full business entity name" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -449,8 +455,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/editor/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2552719">
-          <caret line="16" column="159" selection-start-line="16" selection-start-column="159" selection-end-line="16" selection-end-column="159" />
+        <state vertical-scroll-proportion="0.48501664">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
           <folding />
         </state>
       </provider>
